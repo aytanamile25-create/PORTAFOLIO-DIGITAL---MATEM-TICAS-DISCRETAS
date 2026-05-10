@@ -24,7 +24,8 @@
 
 ---
 **Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al primer ciclo**
-Para ver el contenido detallado, haz clic aquí: [📁 Abrir Portafolio digital Ciclo 1.md](./Portafolio%20digital%20Ccilo%201.md)
+Para ver el contenido detallado, haz clic aquí: [📁 Abrir Portafolio digital Ciclo 1.md](./Portafolio%20digital%20Ciclo%201.md)
+
 
 
 
