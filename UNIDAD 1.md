@@ -7,4 +7,76 @@
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 ### CARRERA DE COMPUTACIÓN
 **UNIDAD 1**
+## 📑 Contenido de la Unidad 1
+
+* [1. Lógica Proposicional](#1-lógica-proposicional)
+* [2. Conectores Lógicos](#2-conectores-lógicos)
+* [3. Tablas de Verdad](#3-tablas-de-verdad)
+* [4. Leyes proposicionales](#4-leyes-proposicionales)
+* [5. Leyes de inferencia](#leyes-de-inferencia).
+* [6. Ejercicios resueltos](#ejercicios-resueltos).
+
+---
+## RESUMEN TEÓRICO
+---
+## 1. Lógica Proposicional
+La Lógica Proposicional es la rama de la lógica que estudia las proposiciones y las formas en que se combinan mediante conectores. Son  enunciados declarativos del cual se puede afirmar que es Verdadero (V) o Falso (F), sin emabrgo no puede ser ambos a la vez.
+Ejemplo:
+Proposiciones Simples: No tienen conectores: "Hoy es Viernes".
+
+Proposiciones Compuestas: Unión de dos o más proposiciones simples mediante conectores: "Hoy es Viernes y tengo clase"
+Conector que une a las proposiciones ( y ).
+
+---
+
+## 2. Conectores Lógicos
+Símbolos que vinculan  distintas partes de una oración o texto.  Permiten transformar problemas de lenguaje natural en soluciones.
+### 📑 Tabla de Operadores y Conectores Lógicos
+
+| Operación | Conector | Símbolo | Significado | Ejemplo |
+| :--- | :--- | :---: | :--- | :--- |
+| **Negación** | No | $\neg$ | Cambia el valor de verdad | $\neg p$ |
+| **Conjunción** | Y | $\land$ | Es verdadera solo si ambos son V | $p \land q$ |
+| **Disyunción** | O | $\lor$ | Es falsa solo si ambos son F | $p \lor q$ |
+| **Condicional** | Si... entonces | $\to$ | Solo es falsa si V implica F | $p \to q$ |
+| **Bicondicional** | Si y solo si | $\leftrightarrow$ | Verdadera si ambos son iguales | $p \leftrightarrow q$ |
+| **Disyunción Exclusiva** | O... o | $\oplus$ | Verdadera si solo uno es V | $p \oplus q$ |
+
+---
+
+## 3. Tablas de Verdad
+Herramienta gráfica que permite determinar el valor de verdad de una proposición compuesta para todas las combinaciones posibles de sus variables.
+Tautología: Todos los resultados finales son Verdaderos.
+
+Contradicción: Todos los resultados finales son Falsos.
+
+Contingencia: Los resultados finales están mezclados entre Verdaderos y Falsos.
+
+---
+
+## 4. Leyes proposicionales
+Son principios fundamentales que permiten transformar y simplificar expresiones lógicas complejas en otras más sencillas que tienen el mismo valor de verdad.
+### ⚖️ Leyes de la Equivalencia Lógica
+
+| Nombre de la Ley | Expresión Lógica |
+| :--- | :--- |
+| **Ley de Idempotencia** | $p \lor p \equiv p$ <br> $p \land p \equiv p$ |
+| **Ley Conmutativa** | $p \lor q \equiv q \lor p$ <br> $p \land q \equiv q \land p$ |
+| **Ley Asociativa** | $(p \lor q) \lor r \equiv p \lor (q \lor r)$ <br> $(p \land q) \land r \equiv p \land (q \land r)$ |
+| **Ley Distributiva** | $p \lor (q \land r) \equiv (p \lor q) \land (p \lor r)$ <br> $p \land (q \lor r) \equiv (p \land q) \lor (p \land r)$ |
+| **Leyes de Identidad** | $p \lor F \equiv p$ <br> $p \land V \equiv p$ |
+| **Leyes de Dominación** | $p \lor V \equiv V$ <br> $p \land F \equiv F$ |
+| **Ley de Doble Negación** | $\neg(\neg p) \equiv p$ |
+| **Leyes de De Morgan** | $\neg(p \land q) \equiv \neg p \lor \neg q$ <br> $\neg(p \lor q) \equiv \neg p \land \neg q$ |
+| **Leyes de Absorción** | $p \lor (p \land q) \equiv p$ <br> $p \land (p \lor q) \equiv p$ |
+| **Leyes del Complemento** | $p \lor \neg p \equiv V$ <br> $p \land \neg p \equiv F$ |
+ 
+
+## 5. Leyes de inferencia 
+Son esquemas de razonamiento deductivo que permite obtener una conclusión a partir de una o varias premisas.
+Los mas comunes son:
+Modus Ponens: Si tengo ($p \to q$) y tengo ($p$), entonces puedo concluir 
+($q$).Modus Tollens: Si tengo ($p \to q$) y tengo ($\neg q$), entonces puedo concluir ($\neg p$).
+---
+
 
