@@ -16,5 +16,8 @@
 
 **Periódo:** 2026
 
+**"La lógica no solo consiste en seguir reglas, sino en saber cómo estructurarlas para crear algo innovador**
+
+
 
 
