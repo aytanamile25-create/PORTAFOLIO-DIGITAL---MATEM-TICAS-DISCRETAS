@@ -140,7 +140,11 @@ La lógica dentro de la carrera de computación es la base para todo, se aplica 
 ----
 
 ## 9. Conclusión
+
+
 En conclusión durante la unidad aprendi nuevos temas, bases fundamentales dentro de la computación, ayuda a introduccirnos desde primer ciclo al desarrollo de software. Durante la unidad la teoría y practica que se llevaba a cabdo en cada clase fue muy buena y didáctica ya que fomenta la capacidad de dominar los temas con eficacia. La lógica computacional es muy importante y básica para realizar cualquier trabajo desde un pc hasta la creación de programas. Para llegar a comprender la lógica fue importante ver los subtemas que abarca la logica computacional que son los conectores lógicos, tablas de verdad, leyes de infernecia y proposicionales.
+
+
 ---
 ## 10.  Anexos - Actividades Prácticas Experimentales
 
