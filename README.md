@@ -1,6 +1,7 @@
 <div align="center">
 
- <img width="111" height="127" alt="image" src="https://github.com/user-attachments/assets/ac750e6a-6883-49b8-87ba-e679c1cf49fd" />
+<img width="500" height="161" alt="image" src="https://github.com/user-attachments/assets/c8160560-6f3e-4419-b127-aaff91baab7a" />
+
 
 # UNIVERSIDAD NACIONAL DE LOJA
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
