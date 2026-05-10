@@ -120,14 +120,17 @@ El análisis lógico demuestra que el reglamento es válido. Solo existe un erro
 ---
 ## 8. Reflexión personal
 **¿Qué fue lo más difícil de entender?**
+
 En lo personal, se me complico un poco el tema de las leyes de inferencias lógicas, fue un tema bastante nuevo, no habia resuelto ejercicios con esos tipos de estructuras, sin embargo con investigación del tema, las leyes, y la práctica dentro del aula pude entender el tema, desarrollar con mas eficiencia los ejercicios y tener el conocimiento de la lógica relacionada con la computación.
 
 
 **¿Qué tema comprendí mejor?**
+
 Me parecio super chevere y sencillo, las tablas de verdad, las leyes de proposición, es facil comprender cuando se tiene claro cada ley, tambien me resulto mejor y fácil comprender porqur son lógicas matemáticas, cuando se analiza con atención cada ejercicio podemos llegar rapido a la respuesta. 
 
 
 **¿Cómo puedo aplicar la lógica en mi carrera?**
+
 La lógica dentro de la carrera de computación es la base para todo, se aplica de multiformes maneras 
 ---
 
