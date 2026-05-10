@@ -10,26 +10,26 @@
 ---
 #### 📌 Índice de Contenidos
 
-*  [📍 Unidad 1](#UNIDAD-1)
-*  [📍 Unidad 2: En desarrollo](#unidad-2-En-desarrollo)
-*  [📍 Unidad 3: En desarrollo](#unidad-3-En-desarrollo)
+*  [📍 Introducción](#introducción)
+*  [📍 Conclusiones](#conclusiones)
+*  [📍Reflexón de formato porfesional](#reflexión-de-formato-profesional)
+*  [📍 Bibliografías](#bibliografías)
+*  [📍 Declaración de IA](#declaración-de-ia)
 
 ---
 
-## Unidad 1: Lógica Computacional
-
-
----
-
-## Unidad 2: En Desarrollo
+## Introducción
 
 ---
 
-## Unidad 3: En desarrollo
+## Conclusiones
+
+---
+
+## Reflexión 
 --- 
-**INTRODUCCIÓN**
-
+## Bibliografías
 ---
-CONCLUSIONES GENERALES
+## Declaración de IA
 
 
