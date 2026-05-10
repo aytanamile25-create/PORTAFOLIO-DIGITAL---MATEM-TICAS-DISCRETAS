@@ -17,6 +17,8 @@
 * [6. Ejercicios resueltos](#ejercicios-resueltos)
 * [7. Ejercicio aplicado](#ejercicio-aplicado)
 * [8. Reflexión personal](#reflexión-personal)
+* [9. Conclusión](#conclusión)
+* [10. Anexos - Actividades Prácticas Experimentales](#anexos-actividades-prácticas-experimentales)
 
 ---
 ## RESUMEN TEÓRICO
@@ -131,7 +133,12 @@ Me parecio super chevere y sencillo, las tablas de verdad, las leyes de proposic
 
 **¿Cómo puedo aplicar la lógica en mi carrera?**
 
-La lógica dentro de la carrera de computación es la base para todo, se aplica de multiformes maneras 
+La lógica dentro de la carrera de computación es la base para todo, se aplica de multiformes maneras, no solo es teoría sino también la creación de software que tengan un funcionamiento eficaz. La lógica se puede aplicar al crear aplicaciones de inteligencia artificial, software, programas o herramientas que facilitan al ser humnano en la vida cotidiana.
+
+----
+
+## 9. Conclusión
 ---
+## 10.  Anexos - Actividades Prácticas Experimentales
 
 
