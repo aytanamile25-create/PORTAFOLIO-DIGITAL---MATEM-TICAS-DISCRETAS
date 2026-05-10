@@ -11,6 +11,7 @@
 #### 📌 Índice de Contenidos
 
 *  [📍 Introducción](#introducción)
+*  [📍 Contenido de aprendizaje](#contenido-de-aprendizaje)
 *  [📍 Conclusiones](#conclusiones)
 *  [📍Reflexón de formato porfesional](#reflexión-de-formato-profesional)
 *  [📍 Bibliografías](#bibliografías)
@@ -19,6 +20,8 @@
 ---
 
 ## Introducción
+---
+##Contenido de aprendizaje
 
 ---
 
