@@ -91,7 +91,7 @@ Ley de Doble Negación: $p \land \neg q$
     <img src="https://img.shields.io/badge/🚀%20ACCEDER%20A%20LA%20UNIDAD%201-CLICK%20AQUÍ-blueviolet?style=for-the-badge" />
   </a>
 </p>
----
+
 ## 7. Ejercicio aplicado
 ---
 ## 8. Reflexión personal
