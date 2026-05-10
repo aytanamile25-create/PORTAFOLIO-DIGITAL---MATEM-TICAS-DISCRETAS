@@ -8,7 +8,7 @@
 ### CARRERA DE COMPUTACIÓN
 **MATEMÁTICAS DISCRETAS**
 ---
-## 📌 Índice de Contenidos
+#### 📌 Índice de Contenidos
 
 * [📍 Unidad 1: Lógica Computacional](#unidad-1-lógica-conmputacional)
 * [📍 Unidad 2: En desarrollo](#unidad-2-En-desarrollo)
