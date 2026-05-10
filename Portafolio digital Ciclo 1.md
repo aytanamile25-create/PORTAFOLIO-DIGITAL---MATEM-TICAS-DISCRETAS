@@ -23,30 +23,15 @@
 ---
 ## Contenido de aprendizaje 
 ## 📚 Unidades
-
-<details>
-<summary>📂 UNIDAD 1.md: Lógica Proposicional</summary
-
-
-
 <p align="left">
-  <a href=#https://github.com/aytanamile25-create/PORTAFOLIO-DIGITAL---MATEM-TICAS-DISCRETAS/blob/43dd593cec535a6329d857f79d238674228deb33/UNIDAD%201.md>
+  <a href="./UNIDAD%201.md">
     <img src="https://img.shields.io/badge/🚀%20ACCEDER%20A%20LA%20UNIDAD%201-CLICK%20AQUÍ-blueviolet?style=for-the-badge" />
   </a>
 </p>
 
 
-</details>
 
-<details>
-<summary>📂 UNIDAD 2.md: ...</summary>
-Contenido en desarrollo.
-</details>
 
-<details>
-<summary>📂 UNIDAD 3.md: ...</summary>
-Contenido en desarrollo.
-</details>
 
 ---
 ## Conclusiones
