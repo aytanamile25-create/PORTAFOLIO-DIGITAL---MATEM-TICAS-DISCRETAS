@@ -15,6 +15,8 @@
 * [4. Leyes proposicionales](#4-leyes-proposicionales)
 * [5. Leyes de inferencia](#leyes-de-inferencia)
 * [6. Ejercicios resueltos](#ejercicios-resueltos)
+* [7. Ejercicio aplicado](#ejercicio-aplicado)
+* [8. Reflexión personal](#reflexión-personal)
 
 ---
 ## RESUMEN TEÓRICO
@@ -89,7 +91,15 @@ Ley de Doble Negación: $p \land \neg q$
     <img src="https://img.shields.io/badge/🚀%20ACCEDER%20A%20LA%20UNIDAD%201-CLICK%20AQUÍ-blueviolet?style=for-the-badge" />
   </a>
 </p>
+---
+## 7. Ejercicio aplicado
+---
+## 8. Reflexión personal
+**¿Qué fue lo más difícil de entender?**
 
+**¿Qué tema comprendí mejor?**
+
+**¿Cómo puedo aplicar la lógica en mi carrera?**
 
 
 ---
