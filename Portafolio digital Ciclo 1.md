@@ -30,7 +30,7 @@
 
 
 <p align="left">
-  <a href="#UNIDAD-1.md">
+  <a href="#UNIDAD-1-.md">
     <img src="https://img.shields.io/badge/🚀%20ACCEDER%20A%20LA%20UNIDAD%201-CLICK%20AQUÍ-blueviolet?style=for-the-badge" />
   </a>
 </p>
@@ -39,12 +39,12 @@
 </details>
 
 <details>
-<summary>📂 Unidad 2: ...</summary>
+<summary>📂 UNIDAD 2.md: ...</summary>
 Contenido en desarrollo.
 </details>
 
 <details>
-<summary>📂 Unidad 3: ...</summary>
+<summary>📂 UNIDAD 3.md: ...</summary>
 Contenido en desarrollo.
 </details>
 
