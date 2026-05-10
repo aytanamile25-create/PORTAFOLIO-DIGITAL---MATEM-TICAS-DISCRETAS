@@ -80,6 +80,7 @@ Son esquemas de razonamiento deductivo que permite obtener una conclusión a par
 Los mas comunes son:
 
 Ley de De Morgan: $\neg(\neg p) \land \neg q$
+
 Ley de Doble Negación: $p \land \neg q$
 
 
