@@ -10,7 +10,7 @@
 ---
 #### 📌 Índice de Contenidos
 
-*  [📍 Unidad 1: Lógica Computacional](UNIDAD-1.md)
+*  [📍 Unidad 1](UNIDAD-1.md)
 *  [📍 Unidad 2: En desarrollo](#unidad-2-En-desarrollo)
 *  [📍 Unidad 3: En desarrollo](#unidad-3-En-desarrollo)
 
