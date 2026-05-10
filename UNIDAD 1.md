@@ -13,8 +13,8 @@
 * [2. Conectores Lógicos](#2-conectores-lógicos)
 * [3. Tablas de Verdad](#3-tablas-de-verdad)
 * [4. Leyes proposicionales](#4-leyes-proposicionales)
-* [5. Leyes de inferencia](#leyes-de-inferencia).
-* [6. Ejercicios resueltos](#ejercicios-resueltos).
+* [5. Leyes de inferencia](#leyes-de-inferencia)
+* [6. Ejercicios resueltos](#ejercicios-resueltos)
 
 ---
 ## RESUMEN TEÓRICO
