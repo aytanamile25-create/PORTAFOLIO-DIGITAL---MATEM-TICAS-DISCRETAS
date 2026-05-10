@@ -75,12 +75,15 @@ Son principios fundamentales que permiten transformar y simplificar expresiones 
  
 
 ## 5. Leyes de inferencia 
+
 Son esquemas de razonamiento deductivo que permite obtener una conclusión a partir de una o varias premisas.
 Los mas comunes son:
 
-Modus Ponens: Si tengo ($p \to q$) y tengo ($p$), entonces puedo concluir 
+Ley de De Morgan: $\neg(\neg p) \land \neg q$
 
-($q$).Modus Tollens: Si tengo ($p \to q$) y tengo ($\neg q$), entonces puedo concluir ($\neg p$).
+Ley de Doble Negación: $p \land \neg q$
+
+
 ---
 
 
