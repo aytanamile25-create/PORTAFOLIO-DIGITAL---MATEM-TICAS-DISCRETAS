@@ -7,13 +7,9 @@
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 ### CARRERA DE COMPUTACIÓN
 ## Asignatura: Matemáticas discretas
-
 **Estudiante:** Aytana Salinas Oviedo  
-
 **Docente:** ING. Mario Enrique Cueva Hurtado
-
 **Ciclo:** 1A
-
 **Periódo:** 2026
 
 ---
