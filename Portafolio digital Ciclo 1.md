@@ -21,15 +21,11 @@
 
 ## Introducción
 ---
-##Contenido de aprendizaje
-
+## Contenido de aprendizaje 
 ---
-
 ## Conclusiones
-
 ---
-
-## Reflexión 
+## Reflexión de formato profesional
 --- 
 ## Bibliografías
 ---
