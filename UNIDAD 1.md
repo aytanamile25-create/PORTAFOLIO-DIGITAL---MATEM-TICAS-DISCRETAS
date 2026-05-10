@@ -46,6 +46,7 @@ Símbolos que vinculan  distintas partes de una oración o texto.  Permiten tran
 
 ## 3. Tablas de Verdad
 Herramienta gráfica que permite determinar el valor de verdad de una proposición compuesta para todas las combinaciones posibles de sus variables.
+
 Tautología: Todos los resultados finales son Verdaderos.
 
 Contradicción: Todos los resultados finales son Falsos.
@@ -56,6 +57,7 @@ Contingencia: Los resultados finales están mezclados entre Verdaderos y Falsos.
 
 ## 4. Leyes proposicionales
 Son principios fundamentales que permiten transformar y simplificar expresiones lógicas complejas en otras más sencillas que tienen el mismo valor de verdad.
+
 ### ⚖️ Leyes de la Equivalencia Lógica
 
 | Nombre de la Ley | Expresión Lógica |
@@ -75,7 +77,9 @@ Son principios fundamentales que permiten transformar y simplificar expresiones 
 ## 5. Leyes de inferencia 
 Son esquemas de razonamiento deductivo que permite obtener una conclusión a partir de una o varias premisas.
 Los mas comunes son:
+
 Modus Ponens: Si tengo ($p \to q$) y tengo ($p$), entonces puedo concluir 
+
 ($q$).Modus Tollens: Si tengo ($p \to q$) y tengo ($\neg q$), entonces puedo concluir ($\neg p$).
 ---
 
