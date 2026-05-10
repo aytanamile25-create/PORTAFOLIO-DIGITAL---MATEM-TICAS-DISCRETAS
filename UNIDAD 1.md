@@ -84,6 +84,11 @@ Ley de De Morgan: $\neg(\neg p) \land \neg q$
 Ley de Doble Negación: $p \land \neg q$
 ---
 ## 6. Ejercicios resueltos
+<p align="left">
+  <a href="./EJERCICIOS%20RESUELTOS.md">
+    <img src="https://img.shields.io/badge/🚀%20ACCEDER%20A%20LA%20UNIDAD%201-CLICK%20AQUÍ-blueviolet?style=for-the-badge" />
+  </a>
+</p>
 
 
 
