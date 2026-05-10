@@ -7,14 +7,19 @@
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 ### CARRERA DE COMPUTACIÓN
 ## Asignatura: Matemáticas discretas
+
 **Estudiante:** Aytana Salinas Oviedo  
+
 **Docente:** ING. Mario Enrique Cueva Hurtado
+
 **Ciclo:** 1A
+
 **Periódo:** 2026
 
 ---
 
 **"La lógica no solo consiste en seguir reglas, sino en saber cómo estructurarlas para crear algo innovador**
+
 <img width="567" height="496" alt="image" src="https://github.com/user-attachments/assets/cf1db319-84ee-487d-a95d-6cda01da3e82" />
 
 ---
