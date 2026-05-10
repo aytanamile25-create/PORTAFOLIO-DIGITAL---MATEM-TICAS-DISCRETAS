@@ -25,7 +25,7 @@
 ## 📚 Unidades
 
 <details>
-<summary>📂 Unidad 1: Lógica Proposicional</summary>
+<summary>📂 UNIDAD 1: Lógica Proposicional</summary>
 
 
 
