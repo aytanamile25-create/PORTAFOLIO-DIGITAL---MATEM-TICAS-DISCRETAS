@@ -82,6 +82,9 @@ Los mas comunes son:
 Ley de De Morgan: $\neg(\neg p) \land \neg q$
 
 Ley de Doble Negación: $p \land \neg q$
+---
+## 6. Ejercicios resueltos
+
 
 
 ---
