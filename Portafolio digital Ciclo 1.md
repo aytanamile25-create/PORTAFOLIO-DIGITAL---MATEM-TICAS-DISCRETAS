@@ -7,6 +7,29 @@
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 ### CARRERA DE COMPUTACIÓN
 **MATEMÁTICAS DISCRETAS**
+---
+## 📌 Índice de Contenidos
 
+* [📍 Unidad 1: Lógica Computacional](#unidad-1-lógica-conmputacional)
+* [📍 Unidad 2: En desarrollo](#unidad-2-En-desarrollo)
+* [📍 Unidad 3: En desarrollo](#unidad-3-En-desarrollo)
+
+---
+
+## Unidad 1: Lógica Computacional
+
+
+---
+
+## Unidad 2: En Desarrollo
+
+---
+
+## Unidad 3: En desarrollo
+--- 
+**INTRODUCCIÓN**
+
+---
+CONCLUSIONES GENERALES
 
 
